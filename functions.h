@@ -1,17 +1,6 @@
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 
-/* --- TODO LIST --- */
-// ADD function to add payload to .TEXT section using custom NT API VirtualProtect, VirtualFree
-// Implement XOR Encryption 
-// Implement Securing the Encryption Key of XOR
-// Implement Both methods of RC4 encryption
-// Implement AES Encryption 
-// Implement MacFuscaion with IPv4/IPV6 addresses 
-// Implement UUID deobfuscation+ Obfuscation 
-// Local Payload Execution - Shellcode function using NTAPI 
-// Implement Shellcode Injection 
-// 
 /* -------- INCLUDES --------*/
 #include <Windows.h>
 #include <cstdarg> 
